@@ -1,0 +1,18 @@
+{
+    "name": "crud/crud",
+    "description": "sii",
+    "autoload": {
+        "psr-4": {
+            "Crud\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nightdragoon",
+            "email": "crackytrini@gmail.com"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "^2.0"
+    }
+}
